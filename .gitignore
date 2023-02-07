@@ -77,3 +77,6 @@ CMakeFiles/
 
 # Linux
 TheForceEngine/tfelnx
+build/
+#suggested folder in README.md
+tfe-build/
