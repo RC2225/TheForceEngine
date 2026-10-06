@@ -33,8 +33,8 @@ door3-1.voc "[Türe schliesst]"
 boba-1.voc	"[Fett lacht]"
 boba-3.voc	"[Fett grunzt]"
 boba-4.voc	"[Fetts Todesschrei]"
-gamor-1.voc  "[Porcine scream]"                     //Gamorrean death
-gamor-3.voc  "[Porcine grunting]"                   //Gamorrean alert
+gamor-1.voc  "[Gamorreaner Todesschrei]"            //Gamorrean death
+gamor-3.voc "[Gamorreaner grunzt]"                  //Gamorrean alert
 reeyee1.voc "[Alien schreit]"                       //Gran alert
 reeyee-1.voc "[Alien schreit]"                      //Gran alert (duplicate)
 reeyee3.voc  "[Alien Todesschrei]"                   //Gran death
